@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3205274753">
+    <data-source source="LOCAL" name="Local" uuid="5ba68526-bd60-4331-b93d-fc82f233671a">
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost/memorix</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfc8dfcfdfd8dfcddfcfdfd8dfd9dfcd</user-password>
+      <schema-pattern>memorix.* scriptie.*</schema-pattern>
+      <default-schemas>memorix.*</default-schemas>
+      <default-dialect>MySQL</default-dialect>
+      <libraries>
+        <library>
+          <url>jar://$USER_HOME$/PycharmProjects/mysql-connector-java-5.1.26-bin.jar!/</url>
+        </library>
+        <library>
+          <url>file://$USER_HOME$/PycharmProjects/mysql-connector-license.txt</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Swarmlab" uuid="f446a760-0776-4f71-9ba5-f7451d29a79b">
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:9999/</jdbc-url>
+      <user-name>bijan</user-name>
+      <user-password>dfc8dfc2dfc3dfc9</user-password>
+      <schema-pattern>memorix.* test.*</schema-pattern>
+      <default-schemas>test.*</default-schemas>
+      <default-dialect>MySQL</default-dialect>
+      <libraries>
+        <library>
+          <url>jar://$USER_HOME$/PycharmProjects/mysql-connector-java-5.1.26-bin.jar!/</url>
+        </library>
+        <library>
+          <url>file://$USER_HOME$/PycharmProjects/mysql-connector-license.txt</url>
+        </library>
+      </libraries>
+      <ssh-properties>
+        <enabled>true</enabled>
+        <proxy-host>swarmlab-srv01.unimaas.nl</proxy-host>
+        <proxy-port>22</proxy-port>
+        <user>marcromeyn</user>
+        <use-password>false</use-password>
+        <password>dfc7dfcbdfd8dfc9df9bdf98df99</password>
+        <private-key-path>$USER_HOME$/.ssh/id_rsa</private-key-path>
+        <passphrase />
+        <remote-host>127.0.0.1</remote-host>
+        <remote-port>3306</remote-port>
+        <local-port>9999</local-port>
+      </ssh-properties>
+    </data-source>
+  </component>
+</project>
+

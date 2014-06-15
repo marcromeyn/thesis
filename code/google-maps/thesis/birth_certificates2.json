@@ -1,0 +1,683 @@
+var testData = { "max": 96,
+ "data": [
+	{
+		"plaats" : "'s-Hertogenbosch",
+		"count" : 23210,
+		"synonym" : "Gemeente 's-Hertogenbosch",
+		"lat" : 51.699167,
+		"lng" : 5.304167
+	},
+	{
+		"plaats" : "Tilburg",
+		"count" : 22926,
+		"synonym" : "Tilburg",
+		"lat" : 51.560596,
+		"lng" : 5.0919143
+	},
+	{
+		"plaats" : "Breda",
+		"count" : 22352,
+		"synonym" : "Breda",
+		"lat" : 51.58307,
+		"lng" : 4.7769505
+	},
+	{
+		"plaats" : "Stiphout",
+		"count" : 12318,
+		"synonym" : "Helmond",
+		"lat" : 51.4856707,
+		"lng" : 5.617835
+	},
+	{
+		"plaats" : "Bergen op Zoom",
+		"count" : 10430,
+		"synonym" : "Bergen op Zoom",
+		"lat" : 51.4945758,
+		"lng" : 4.2871622
+	},
+	{
+		"plaats" : "Herpen",
+		"count" : 9165,
+		"synonym" : "Oss",
+		"lat" : 51.7719286,
+		"lng" : 5.6419812
+	},
+	{
+		"plaats" : "Waalwijk",
+		"count" : 8350,
+		"synonym" : "Waalwijk",
+		"lat" : 51.6878954,
+		"lng" : 5.0574822
+	},
+	{
+		"plaats" : "Stratum",
+		"count" : 8257,
+		"synonym" : "Eindhoven",
+		"lat" : 51.4166667,
+		"lng" : 5.4833333
+	},
+	{
+		"plaats" : "Klundert",
+		"count" : 7712,
+		"synonym" : "Moerdijk",
+		"lat" : 51.6666667,
+		"lng" : 4.5333333
+	},
+	{
+		"plaats" : "Oosterhout",
+		"count" : 7077,
+		"synonym" : "Oosterhout",
+		"lat" : 51.6410202,
+		"lng" : 4.8616901
+	},
+	{
+		"plaats" : "Roosendaal",
+		"count" : 6896,
+		"synonym" : "Roosendaal",
+		"lat" : 51.5321349,
+		"lng" : 4.461994
+	},
+	{
+		"plaats" : "Oudheusden",
+		"count" : 6083,
+		"synonym" : "Heusden",
+		"lat" : 51.7237392,
+		"lng" : 5.1393861
+	},
+	{
+		"plaats" : "Den Dungen",
+		"count" : 5759,
+		"synonym" : "Sint-Michielsgestel",
+		"lat" : 51.6653323,
+		"lng" : 5.3717239
+	},
+	{
+		"plaats" : "Steenbergen",
+		"count" : 5027,
+		"synonym" : "Steenbergen",
+		"lat" : 51.5812395,
+		"lng" : 4.3155991
+	},
+	{
+		"plaats" : "Liempde",
+		"count" : 4911,
+		"synonym" : "Boxtel",
+		"lat" : 51.5666667,
+		"lng" : 5.3666667
+	},
+	{
+		"plaats" : "Loon op Zand",
+		"count" : 4797,
+		"synonym" : "Loon op Zand",
+		"lat" : 51.627911,
+		"lng" : 5.074258
+	},
+	{
+		"plaats" : "Wijk en Aalburg",
+		"count" : 4483,
+		"synonym" : "NULL",
+		"lat" : 51.7313332,
+		"lng" : 5.0455556
+	},
+	{
+		"plaats" : "Etten-Leur",
+		"count" : 4416,
+		"synonym" : "Etten-Leur",
+		"lat" : 51.568519,
+		"lng" : 4.6357739
+	},
+	{
+		"plaats" : "Uden",
+		"count" : 4361,
+		"synonym" : "Uden",
+		"lat" : 51.6666667,
+		"lng" : 5.6166667
+	},
+	{
+		"plaats" : "Rijsbergen",
+		"count" : 4053,
+		"synonym" : "Zundert",
+		"lat" : 51.5166667,
+		"lng" : 4.7
+	},
+	{
+		"plaats" : "Woensdrecht",
+		"count" : 4002,
+		"synonym" : "Woensdrecht",
+		"lat" : 51.4292475,
+		"lng" : 4.3047078
+	},
+	{
+		"plaats" : "'s Gravenmoer",
+		"count" : 3856,
+		"synonym" : "Gemeente Dongen",
+		"lat" : 51.655944868,
+		"lng" : 4.94075775146
+	},
+	{
+		"plaats" : "Veghel",
+		"count" : 3770,
+		"synonym" : "Veghel",
+		"lat" : 51.616621,
+		"lng" : 5.542965
+	},
+	{
+		"plaats" : "Dussen",
+		"count" : 3722,
+		"synonym" : "Werkendam",
+		"lat" : 51.7333333,
+		"lng" : 4.9666667
+	},
+	{
+		"plaats" : "Eindhoven",
+		"count" : 3711,
+		"synonym" : "Gemeente Eindhoven",
+		"lat" : 51.440833,
+		"lng" : 5.477778
+	},
+	{
+		"plaats" : "Almkerk",
+		"count" : 3647,
+		"synonym" : "Woudrichem",
+		"lat" : 51.7719653,
+		"lng" : 4.9609986
+	},
+	{
+		"plaats" : "Gassel",
+		"count" : 3470,
+		"synonym" : "Gemeente Grave",
+		"lat" : 51.740833,
+		"lng" : 5.780556
+	},
+	{
+		"plaats" : "Gemert",
+		"count" : 3407,
+		"synonym" : "Gemeente Gemert-Bakel",
+		"lat" : 51.555833,
+		"lng" : 5.690278
+	},
+	{
+		"plaats" : "Schijndel",
+		"count" : 3376,
+		"synonym" : "Schijndel",
+		"lat" : 51.616537,
+		"lng" : 5.442033
+	},
+	{
+		"plaats" : "Vught",
+		"count" : 3281,
+		"synonym" : "Vught",
+		"lat" : 51.656751,
+		"lng" : 5.295918
+	},
+	{
+		"plaats" : "Raamsdonk",
+		"count" : 3182,
+		"synonym" : "Geertruidenberg",
+		"lat" : 51.687025,
+		"lng" : 4.913602
+	},
+	{
+		"plaats" : "Aarle-Rixtel",
+		"count" : 3139,
+		"synonym" : "Laarbeek",
+		"lat" : 51.510951,
+		"lng" : 5.640348
+	},
+	{
+		"plaats" : "Rucphen",
+		"count" : 3119,
+		"synonym" : "Rucphen",
+		"lat" : 51.5325,
+		"lng" : 4.5583333
+	},
+	{
+		"plaats" : "Vierlingsbeek",
+		"count" : 3024,
+		"synonym" : "Boxmeer",
+		"lat" : 51.59321,
+		"lng" : 6.009661
+	},
+	{
+		"plaats" : "Oisterwijk",
+		"count" : 2971,
+		"synonym" : "Oisterwijk",
+		"lat" : 51.5788944,
+		"lng" : 5.19241
+	},
+	{
+		"plaats" : "Nistelrode",
+		"count" : 2964,
+		"synonym" : "Bernheze",
+		"lat" : 51.701908,
+		"lng" : 5.562056
+	},
+	{
+		"plaats" : "Sint-Oedenrode",
+		"count" : 2901,
+		"synonym" : "Sint-Oedenrode",
+		"lat" : 51.5667085,
+		"lng" : 5.4698405
+	},
+	{
+		"plaats" : "Lierop",
+		"count" : 2738,
+		"synonym" : "Someren",
+		"lat" : 51.418101,
+		"lng" : 5.680558
+	},
+	{
+		"plaats" : "Mierlo",
+		"count" : 2688,
+		"synonym" : "Geldrop-Mierlo",
+		"lat" : 51.44374,
+		"lng" : 5.615962
+	},
+	{
+		"plaats" : "Oirschot",
+		"count" : 2646,
+		"synonym" : "Oirschot",
+		"lat" : 51.50705,
+		"lng" : 5.309181
+	},
+	{
+		"plaats" : "Asten",
+		"count" : 2631,
+		"synonym" : "Gemeente Asten",
+		"lat" : 51.404167,
+		"lng" : 5.748611
+	},
+	{
+		"plaats" : "Wouw",
+		"count" : 2536,
+		"synonym" : "Gemeente Roosendaal en Nispen",
+		"lat" : 51.521667,
+		"lng" : 4.390278
+	},
+	{
+		"plaats" : "Diessen",
+		"count" : 2518,
+		"synonym" : "Hilvarenbeek",
+		"lat" : 51.4757206,
+		"lng" : 5.175417
+	},
+	{
+		"plaats" : "Leende",
+		"count" : 2445,
+		"synonym" : "Heeze-Leende",
+		"lat" : 51.35,
+		"lng" : 5.55
+	},
+	{
+		"plaats" : "Reek",
+		"count" : 2408,
+		"synonym" : "Landerd",
+		"lat" : 51.747629,
+		"lng" : 5.683134
+	},
+	{
+		"plaats" : "Terheijden",
+		"count" : 2381,
+		"synonym" : "Drimmelen",
+		"lat" : 51.6443817,
+		"lng" : 4.7512386
+	},
+	{
+		"plaats" : "Oudenbosch",
+		"count" : 2310,
+		"synonym" : "Halderberge",
+		"lat" : 51.5832716,
+		"lng" : 4.5275943
+	},
+	{
+		"plaats" : "Dinteloord",
+		"count" : 2219,
+		"synonym" : "Gemeente Steenbergen",
+		"lat" : 51.635,
+		"lng" : 4.369444
+	},
+	{
+		"plaats" : "Helvoirt",
+		"count" : 2124,
+		"synonym" : "Gemeente Haaren",
+		"lat" : 51.631667,
+		"lng" : 5.230556
+	},
+	{
+		"plaats" : "Mill en Sint Hubert",
+		"count" : 2107,
+		"synonym" : "Mill en Sint Hubert",
+		"lat" : 51.6798065,
+		"lng" : 5.7553811
+	},
+	{
+		"plaats" : "Bokhoven",
+		"count" : 2018,
+		"synonym" : "'s-Hertogenbosch",
+		"lat" : 51.7369029,
+		"lng" : 5.2306932
+	},
+	{
+		"plaats" : "Zeelst",
+		"count" : 1888,
+		"synonym" : "Veldhoven",
+		"lat" : 51.4249305,
+		"lng" : 5.4157434
+	},
+	{
+		"plaats" : "Boekel",
+		"count" : 1855,
+		"synonym" : "Gemeente Boekel",
+		"lat" : 51.603333,
+		"lng" : 5.675
+	},
+	{
+		"plaats" : "Drunen",
+		"count" : 1825,
+		"synonym" : "Gemeente Heusden",
+		"lat" : 51.685833,
+		"lng" : 5.133333
+	},
+	{
+		"plaats" : "Nuenen, Gerwen en Nederwetten",
+		"count" : 1790,
+		"synonym" : "Nuenen, Gerwen en Nederwetten",
+		"lat" : 51.4794274,
+		"lng" : 5.5531337
+	},
+	{
+		"plaats" : "Erp",
+		"count" : 1768,
+		"synonym" : "Gemeente Veghel",
+		"lat" : 51.6,
+		"lng" : 5.606944
+	},
+	{
+		"plaats" : "Geldrop",
+		"count" : 1765,
+		"synonym" : "Gemeente Geldrop-Mierlo",
+		"lat" : 51.421667,
+		"lng" : 5.559722
+	},
+	{
+		"plaats" : "Budel",
+		"count" : 1736,
+		"synonym" : "Gemeente Cranendonck",
+		"lat" : 51.271667,
+		"lng" : 5.575
+	},
+	{
+		"plaats" : "Hoeven",
+		"count" : 1735,
+		"synonym" : "Gemeente Halderberge",
+		"lat" : 51.579167,
+		"lng" : 4.583333
+	},
+	{
+		"plaats" : "Heesch",
+		"count" : 1655,
+		"synonym" : "Gemeente Bernheze",
+		"lat" : 51.7336200471,
+		"lng" : 5.52672386169
+	},
+	{
+		"plaats" : "Willemstad",
+		"count" : 1611,
+		"synonym" : "Santa Maria",
+		"lat" : 12.108129,
+		"lng" : -68.930206
+	},
+	{
+		"plaats" : "Oploo",
+		"count" : 1542,
+		"synonym" : "Sint Anthonis",
+		"lat" : 51.6088889,
+		"lng" : 5.8736111
+	},
+	{
+		"plaats" : "Lithoijen",
+		"count" : 1539,
+		"synonym" : "Lith",
+		"lat" : 51.8023818,
+		"lng" : 5.463305
+	},
+	{
+		"plaats" : "Goirle",
+		"count" : 1504,
+		"synonym" : "Gemeente Goirle",
+		"lat" : 51.520833,
+		"lng" : 5.066667
+	},
+	{
+		"plaats" : "Baarle-Nassau",
+		"count" : 1497,
+		"synonym" : "Baarle-Nassau",
+		"lat" : 51.4451366,
+		"lng" : 4.9295231
+	},
+	{
+		"plaats" : "Best",
+		"count" : 1407,
+		"synonym" : "Gemeente Best",
+		"lat" : 51.5075,
+		"lng" : 5.390278
+	},
+	{
+		"plaats" : "Valkenswaard",
+		"count" : 1364,
+		"synonym" : "Valkenswaard",
+		"lat" : 51.3502778,
+		"lng" : 5.4588889
+	},
+	{
+		"plaats" : "Boxmeer",
+		"count" : 1335,
+		"synonym" : "Gemeente Boxmeer",
+		"lat" : 51.646667,
+		"lng" : 5.947222
+	},
+	{
+		"plaats" : "Geertruidenberg",
+		"count" : 1294,
+		"synonym" : "Gemeente Geertruidenberg",
+		"lat" : 51.701667,
+		"lng" : 4.856944
+	},
+	{
+		"plaats" : "Maarheeze",
+		"count" : 1071,
+		"synonym" : "Cranendonck",
+		"lat" : 51.3103841,
+		"lng" : 5.6148653
+	},
+	{
+		"plaats" : "Geffen",
+		"count" : 1043,
+		"synonym" : "Gemeente Maasdonk",
+		"lat" : 51.74,
+		"lng" : 5.463889
+	},
+	{
+		"plaats" : "Chaam",
+		"count" : 992,
+		"synonym" : "Alphen-Chaam",
+		"lat" : 51.502298,
+		"lng" : 4.863823
+	},
+	{
+		"plaats" : "Wanroij",
+		"count" : 979,
+		"synonym" : "Gemeente Sint Anthonis",
+		"lat" : 51.6575,
+		"lng" : 5.818056
+	},
+	{
+		"plaats" : "Vessem",
+		"count" : 834,
+		"synonym" : "Eersel",
+		"lat" : 51.42,
+		"lng" : 5.2883333
+	},
+	{
+		"plaats" : "Nuland",
+		"count" : 824,
+		"synonym" : "Maasdonk",
+		"lat" : 51.7333333,
+		"lng" : 5.4333333
+	},
+	{
+		"plaats" : "Heeswijk",
+		"count" : 813,
+		"synonym" : "Montfoort",
+		"lat" : 52.0516784,
+		"lng" : 4.9703788
+	},
+	{
+		"plaats" : "Veen",
+		"count" : 768,
+		"synonym" : "Düsseldorf",
+		"lat" : 51.613845,
+		"lng" : 6.456122
+	},
+	{
+		"plaats" : "Eersel",
+		"count" : 725,
+		"synonym" : "Gemeente Eersel",
+		"lat" : 51.3575,
+		"lng" : 5.318056
+	},
+	{
+		"plaats" : "Reusel",
+		"count" : 721,
+		"synonym" : "Reusel-De Mierden",
+		"lat" : 51.36237,
+		"lng" : 5.161551
+	},
+	{
+		"plaats" : "Putte",
+		"count" : 710,
+		"synonym" : "Antwerp",
+		"lat" : 51.05476,
+		"lng" : 4.62867
+	},
+	{
+		"plaats" : "Ravenstein",
+		"count" : 648,
+		"synonym" : "Karlsruhe",
+		"lat" : 49.4122515,
+		"lng" : 9.5185872
+	},
+	{
+		"plaats" : "Waalre",
+		"count" : 622,
+		"synonym" : "Gemeente Waalre",
+		"lat" : 51.386667,
+		"lng" : 5.444444
+	},
+	{
+		"plaats" : "Meeuwen",
+		"count" : 614,
+		"synonym" : "Limburg",
+		"lat" : 51.09867,
+		"lng" : 5.5205
+	},
+	{
+		"plaats" : "Haps",
+		"count" : 583,
+		"synonym" : "Gemeente Cuijk",
+		"lat" : 51.689167,
+		"lng" : 5.861111
+	},
+	{
+		"plaats" : "Vlierden",
+		"count" : 474,
+		"synonym" : "Deurne",
+		"lat" : 51.4442949,
+		"lng" : 5.760522
+	},
+	{
+		"plaats" : "Aalst",
+		"count" : 472,
+		"synonym" : "Oost-Vlaanderen",
+		"lat" : 50.9333333,
+		"lng" : 4.0333333
+	},
+	{
+		"plaats" : "Riethoven",
+		"count" : 466,
+		"synonym" : "Bergeijk",
+		"lat" : 51.353235,
+		"lng" : 5.385372
+	},
+	{
+		"plaats" : "Westerhoven",
+		"count" : 443,
+		"synonym" : "Gemeente Bergeijk",
+		"lat" : 51.3325,
+		"lng" : 5.395833
+	},
+	{
+		"plaats" : "Rijswijk",
+		"count" : 386,
+		"synonym" : "Rijswijk",
+		"lat" : 52.054756,
+		"lng" : 4.333648
+	},
+	{
+		"plaats" : "Velp",
+		"count" : 383,
+		"synonym" : "Rheden",
+		"lat" : 51.9990669,
+		"lng" : 5.985699
+	},
+	{
+		"plaats" : "Drongelen",
+		"count" : 381,
+		"synonym" : "Gemeente Aalburg",
+		"lat" : 51.715833,
+		"lng" : 5.054167
+	},
+	{
+		"plaats" : "Giessen",
+		"count" : 369,
+		"synonym" : "Giessen",
+		"lat" : 50.5871416,
+		"lng" : 8.6909259
+	},
+	{
+		"plaats" : "Linden",
+		"count" : 367,
+		"synonym" : "Union",
+		"lat" : 40.6220478,
+		"lng" : -74.2445902
+	},
+	{
+		"plaats" : "Engelen",
+		"count" : 285,
+		"synonym" : "Ringerike",
+		"lat" : 60.1459116,
+		"lng" : 10.0979568
+	},
+	{
+		"plaats" : "Dommelen",
+		"count" : 278,
+		"synonym" : "Gemeente Valkenswaard",
+		"lat" : 51.355,
+		"lng" : 5.430556
+	},
+	{
+		"plaats" : "Sprang-Capelle",
+		"count" : 50,
+		"synonym" : "Gemeente Waalwijk",
+		"lat" : 51.670000117,
+		"lng" : 5.04856109619
+	},
+	{
+		"plaats" : "Kessel",
+		"count" : 30,
+		"synonym" : "Hardy",
+		"lat" : 39.075798,
+		"lng" : -79.034012
+	}
+]
+}

@@ -1,0 +1,25 @@
+SELECT type, distance_mom, distance_dad, count(*), 
+  count(*)/(select count(*) from test.birth_certificates )*100 as percentage 
+FROM test.birth_marriage
+  GROUP BY type, distance_mom, distance_dad
+  order by count(*) desc;
+  
+SELECT type,count(*), 
+  count(*)/(select count(*) from test.birth_certificates )*100 as percentage 
+FROM test.birth_marriage
+  GROUP BY type
+  order by count(*) desc;
+
+SELECT * from test.names_synonyms;
+
+
+# different distances of levenhstein (total 69,39%)
+SELECT distance_mom, distance_dad, count(*), 
+  count(*)/(select count(*) from test.birth_certificates )*100 as percentage
+FROM test.birth_marriage WHERE type = 0
+  GROUP BY distance_mom, distance_dad
+  order by count(*) desc;
+
+select sum(count(*)/(select count(*) from test.birth_certificates )*100)
+FROM test.birth_marriage WHERE type = 0;
+  

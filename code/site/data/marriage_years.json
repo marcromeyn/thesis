@@ -1,0 +1,562 @@
+[,
+ {
+  "jaar": 1811,
+  "certificates": 1980
+ },
+ {
+  "jaar": 1812,
+  "certificates": 1944
+ },
+ {
+  "jaar": 1813,
+  "certificates": 2614
+ },
+ {
+  "jaar": 1814,
+  "certificates": 2639
+ },
+ {
+  "jaar": 1815,
+  "certificates": 2699
+ },
+ {
+  "jaar": 1816,
+  "certificates": 2137
+ },
+ {
+  "jaar": 1817,
+  "certificates": 1512
+ },
+ {
+  "jaar": 1818,
+  "certificates": 1841
+ },
+ {
+  "jaar": 1819,
+  "certificates": 2025
+ },
+ {
+  "jaar": 1820,
+  "certificates": 1992
+ },
+ {
+  "jaar": 1821,
+  "certificates": 2089
+ },
+ {
+  "jaar": 1822,
+  "certificates": 2295
+ },
+ {
+  "jaar": 1823,
+  "certificates": 2257
+ },
+ {
+  "jaar": 1824,
+  "certificates": 2139
+ },
+ {
+  "jaar": 1825,
+  "certificates": 2436
+ },
+ {
+  "jaar": 1826,
+  "certificates": 2390
+ },
+ {
+  "jaar": 1827,
+  "certificates": 2177
+ },
+ {
+  "jaar": 1828,
+  "certificates": 2160
+ },
+ {
+  "jaar": 1829,
+  "certificates": 2271
+ },
+ {
+  "jaar": 1830,
+  "certificates": 2173
+ },
+ {
+  "jaar": 1831,
+  "certificates": 1973
+ },
+ {
+  "jaar": 1832,
+  "certificates": 2140
+ },
+ {
+  "jaar": 1833,
+  "certificates": 2309
+ },
+ {
+  "jaar": 1834,
+  "certificates": 2920
+ },
+ {
+  "jaar": 1835,
+  "certificates": 2974
+ },
+ {
+  "jaar": 1836,
+  "certificates": 2823
+ },
+ {
+  "jaar": 1837,
+  "certificates": 2764
+ },
+ {
+  "jaar": 1838,
+  "certificates": 2601
+ },
+ {
+  "jaar": 1839,
+  "certificates": 2666
+ },
+ {
+  "jaar": 1840,
+  "certificates": 2495
+ },
+ {
+  "jaar": 1841,
+  "certificates": 2449
+ },
+ {
+  "jaar": 1842,
+  "certificates": 2357
+ },
+ {
+  "jaar": 1843,
+  "certificates": 2405
+ },
+ {
+  "jaar": 1844,
+  "certificates": 2473
+ },
+ {
+  "jaar": 1845,
+  "certificates": 2349
+ },
+ {
+  "jaar": 1846,
+  "certificates": 2042
+ },
+ {
+  "jaar": 1847,
+  "certificates": 1924
+ },
+ {
+  "jaar": 1848,
+  "certificates": 2316
+ },
+ {
+  "jaar": 1849,
+  "certificates": 2542
+ },
+ {
+  "jaar": 1850,
+  "certificates": 2737
+ },
+ {
+  "jaar": 1851,
+  "certificates": 2765
+ },
+ {
+  "jaar": 1852,
+  "certificates": 2701
+ },
+ {
+  "jaar": 1853,
+  "certificates": 2621
+ },
+ {
+  "jaar": 1854,
+  "certificates": 2488
+ },
+ {
+  "jaar": 1855,
+  "certificates": 2389
+ },
+ {
+  "jaar": 1856,
+  "certificates": 2451
+ },
+ {
+  "jaar": 1857,
+  "certificates": 2819
+ },
+ {
+  "jaar": 1858,
+  "certificates": 2952
+ },
+ {
+  "jaar": 1859,
+  "certificates": 2916
+ },
+ {
+  "jaar": 1860,
+  "certificates": 2948
+ },
+ {
+  "jaar": 1861,
+  "certificates": 2943
+ },
+ {
+  "jaar": 1862,
+  "certificates": 2793
+ },
+ {
+  "jaar": 1863,
+  "certificates": 3040
+ },
+ {
+  "jaar": 1864,
+  "certificates": 3159
+ },
+ {
+  "jaar": 1865,
+  "certificates": 3242
+ },
+ {
+  "jaar": 1866,
+  "certificates": 3371
+ },
+ {
+  "jaar": 1867,
+  "certificates": 3305
+ },
+ {
+  "jaar": 1868,
+  "certificates": 3096
+ },
+ {
+  "jaar": 1869,
+  "certificates": 3094
+ },
+ {
+  "jaar": 1870,
+  "certificates": 2958
+ },
+ {
+  "jaar": 1871,
+  "certificates": 3239
+ },
+ {
+  "jaar": 1872,
+  "certificates": 3291
+ },
+ {
+  "jaar": 1873,
+  "certificates": 3242
+ },
+ {
+  "jaar": 1874,
+  "certificates": 3185
+ },
+ {
+  "jaar": 1875,
+  "certificates": 3184
+ },
+ {
+  "jaar": 1876,
+  "certificates": 3327
+ },
+ {
+  "jaar": 1877,
+  "certificates": 3272
+ },
+ {
+  "jaar": 1878,
+  "certificates": 3113
+ },
+ {
+  "jaar": 1879,
+  "certificates": 3089
+ },
+ {
+  "jaar": 1880,
+  "certificates": 3075
+ },
+ {
+  "jaar": 1881,
+  "certificates": 3004
+ },
+ {
+  "jaar": 1882,
+  "certificates": 2957
+ },
+ {
+  "jaar": 1883,
+  "certificates": 2844
+ },
+ {
+  "jaar": 1884,
+  "certificates": 3015
+ },
+ {
+  "jaar": 1885,
+  "certificates": 2986
+ },
+ {
+  "jaar": 1886,
+  "certificates": 3026
+ },
+ {
+  "jaar": 1887,
+  "certificates": 3034
+ },
+ {
+  "jaar": 1888,
+  "certificates": 2927
+ },
+ {
+  "jaar": 1889,
+  "certificates": 3098
+ },
+ {
+  "jaar": 1890,
+  "certificates": 3193
+ },
+ {
+  "jaar": 1891,
+  "certificates": 3221
+ },
+ {
+  "jaar": 1892,
+  "certificates": 3343
+ },
+ {
+  "jaar": 1893,
+  "certificates": 3455
+ },
+ {
+  "jaar": 1894,
+  "certificates": 3368
+ },
+ {
+  "jaar": 1895,
+  "certificates": 3638
+ },
+ {
+  "jaar": 1896,
+  "certificates": 3604
+ },
+ {
+  "jaar": 1897,
+  "certificates": 3635
+ },
+ {
+  "jaar": 1898,
+  "certificates": 3827
+ },
+ {
+  "jaar": 1899,
+  "certificates": 3823
+ },
+ {
+  "jaar": 1900,
+  "certificates": 3985
+ },
+ {
+  "jaar": 1901,
+  "certificates": 4054
+ },
+ {
+  "jaar": 1902,
+  "certificates": 4066
+ },
+ {
+  "jaar": 1903,
+  "certificates": 4055
+ },
+ {
+  "jaar": 1904,
+  "certificates": 3648
+ },
+ {
+  "jaar": 1905,
+  "certificates": 3643
+ },
+ {
+  "jaar": 1906,
+  "certificates": 3608
+ },
+ {
+  "jaar": 1907,
+  "certificates": 4211
+ },
+ {
+  "jaar": 1908,
+  "certificates": 4095
+ },
+ {
+  "jaar": 1909,
+  "certificates": 4055
+ },
+ {
+  "jaar": 1910,
+  "certificates": 4083
+ },
+ {
+  "jaar": 1911,
+  "certificates": 4216
+ },
+ {
+  "jaar": 1912,
+  "certificates": 4274
+ },
+ {
+  "jaar": 1913,
+  "certificates": 4550
+ },
+ {
+  "jaar": 1914,
+  "certificates": 3806
+ },
+ {
+  "jaar": 1915,
+  "certificates": 3889
+ },
+ {
+  "jaar": 1916,
+  "certificates": 4517
+ },
+ {
+  "jaar": 1917,
+  "certificates": 5012
+ },
+ {
+  "jaar": 1918,
+  "certificates": 5073
+ },
+ {
+  "jaar": 1919,
+  "certificates": 5974
+ },
+ {
+  "jaar": 1920,
+  "certificates": 6504
+ },
+ {
+  "jaar": 1921,
+  "certificates": 6325
+ },
+ {
+  "jaar": 1922,
+  "certificates": 5783
+ },
+ {
+  "jaar": 1923,
+  "certificates": 1073
+ },
+ {
+  "jaar": 1924,
+  "certificates": 954
+ },
+ {
+  "jaar": 1925,
+  "certificates": 986
+ },
+ {
+  "jaar": 1926,
+  "certificates": 916
+ },
+ {
+  "jaar": 1927,
+  "certificates": 1004
+ },
+ {
+  "jaar": 1928,
+  "certificates": 1092
+ },
+ {
+  "jaar": 1929,
+  "certificates": 1151
+ },
+ {
+  "jaar": 1930,
+  "certificates": 1130
+ },
+ {
+  "jaar": 1931,
+  "certificates": 1033
+ },
+ {
+  "jaar": 1932,
+  "certificates": 928
+ },
+ {
+  "jaar": 1933,
+  "certificates": 305
+ },
+ {
+  "jaar": 1934,
+  "certificates": 333
+ },
+ {
+  "jaar": 1935,
+  "certificates": 319
+ },
+ {
+  "jaar": 1936,
+  "certificates": 306
+ },
+ {
+  "jaar": 1937,
+  "certificates": 263
+ },
+ {
+  "jaar": 1938,
+  "certificates": 265
+ },
+ {
+  "jaar": 1939,
+  "certificates": 351
+ },
+ {
+  "jaar": 1940,
+  "certificates": 278
+ },
+ {
+  "jaar": 1941,
+  "certificates": 50
+ },
+ {
+  "jaar": 1942,
+  "certificates": 393
+ },
+ {
+  "jaar": 1943,
+  "certificates": 305
+ },
+ {
+  "jaar": 1944,
+  "certificates": 312
+ },
+ {
+  "jaar": 1945,
+  "certificates": 372
+ },
+ {
+  "jaar": 1946,
+  "certificates": 412
+ },
+ {
+  "jaar": 1947,
+  "certificates": 440
+ },
+ {
+  "jaar": 1948,
+  "certificates": 66
+ },
+ {
+  "jaar": 1949,
+  "certificates": 50
+ },
+ {
+  "jaar": 1950,
+  "certificates": 58
+ }
+]

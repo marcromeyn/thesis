@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a1090fa-1e09-49ea-acd1-873a0655f0b2" name="Default" comment="" />
+    <ignored path="code.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="code" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="dump_03_sep.sql" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dump_03_sep.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1624" column="29" selection-start="77290" selection-end="77290" vertical-scroll-proportion="0.0" vertical-offset="24028" max-vertical-offset="36435">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Swarmlab" pinned="false" current="true" current-in-tab="true">
+        <entry file="dbDummy://db-console:/1bba4c2c/f446a760-0776-4f71-9ba5-f7451d29a79b/">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="72" selection-start="216" selection-end="222" vertical-scroll-proportion="0.14018692" vertical-offset="0" max-vertical-offset="1170">
+              <folding>
+                <marker date="0" expanded="true" signature="150:222" placeholder="SELECT * FRO..marriage_names..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thesis" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thesis">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="465">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="import_data.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/import_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="57" selection-start="59" selection-end="92" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="855">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="20" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="2490">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="algorithm.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm/algorithm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="46" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="330">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fabfile.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/happyhour/fabfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="81" column="39" selection-start="1664" selection-end="1664" vertical-scroll-proportion="0.0" vertical-offset="1215" max-vertical-offset="1965">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="set_gender.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/set_gender.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="13" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="510">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="ls" />
+      <command text="workon scriptie" />
+      <command text="cd ../" />
+      <command text="cd ../" />
+      <command text="workon scriptie" />
+      <command text="sudo apt-get install sshfs" />
+    </commandsHistory>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/swarmlab/data_import/import_begraven-documents.py" />
+        <option value="$PROJECT_DIR$/dump_15_aug.sql" />
+        <option value="dbtable:/1bba4c2c/f446a760-0776-4f71-9ba5-f7451d29a79b/test..full_names_birth" />
+        <option value="$PROJECT_DIR$/dump_16_aug.sql" />
+        <option value="dbtable:/1bba4c2c/f446a760-0776-4f71-9ba5-f7451d29a79b/test..places" />
+        <option value="$USER_HOME$/Downloads/your-converted-csv.sql" />
+        <option value="$PROJECT_DIR$/birth_years_count.json" />
+        <option value="[Swarmlab] CONSOLE" />
+        <option value="$PROJECT_DIR$/chart.py" />
+        <option value="$PROJECT_DIR$/swarmlab/get_christen_names_birth.py" />
+        <option value="$PROJECT_DIR$/swarmlab/get_christen_names_marriage.py" />
+        <option value="$PROJECT_DIR$/swarmlab/get_name_synonyms.py" />
+        <option value="dbtable:/1bba4c2c/f446a760-0776-4f71-9ba5-f7451d29a79b/test..birth_marriage" />
+        <option value="$PROJECT_DIR$/dump_03_sep.sql" />
+        <option value="$PROJECT_DIR$/algorithm/algorithm.py" />
+        <option value="db-console:/1bba4c2c/f446a760-0776-4f71-9ba5-f7451d29a79b/" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="width" value="1368" />
+    <option name="height" value="769" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Database.TableEditor.Splitter" value="0.9" />
+    <property name="Console.TableResult.DefaultCopyAction" value="Comma-separated Values (CSV)" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/happyhour/fabfile.py" />
+    <property name="FullScreen" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="0a7a9892-138d-4707-883b-b4ea95dedf3a">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/swarmlab" />
+      <recent name="$PROJECT_DIR$/swarmlab/data_import" />
+      <recent name="$PROJECT_DIR$/swarmlab/database" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/swarmlab" />
+      <recent name="$PROJECT_DIR$/swarmlab/data_import" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.get_name_synonyms">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Scriptie" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/scriptie/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Death_certificates" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="ssh://marcromeyn@swarmlab-srv01.unimaas.nl:22/home/marcromeyn/marc/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swarmlab" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$/swarmlab" remote-root="$PROJECT_DIR$/../../../marcromeyn/marc" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swarmlab/data_import/import_death-certificates.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Birth_certificates" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="ssh://marcromeyn@swarmlab-srv01.unimaas.nl:22/home/marcromeyn/marc/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swarmlab" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$/swarmlab" remote-root="$PROJECT_DIR$/../../../marcromeyn/marc" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swarmlab/data_import/import_birth-certificates.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="models" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="ssh://marcromeyn@swarmlab-srv01.unimaas.nl:22/home/marcromeyn/marc/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swarmlab/database" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$/swarmlab" remote-root="$PROJECT_DIR$/../../../marcromeyn/marc" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swarmlab/database/models.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="birth_fullnames" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="ssh://marcromeyn@swarmlab-srv01.unimaas.nl:22/home/marcromeyn/marc/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swarmlab" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$/swarmlab" remote-root="$PROJECT_DIR$/../../../marcromeyn/marc" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swarmlab/birth_fullnames.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="trouw_fullnames" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="ssh://marcromeyn@swarmlab-srv01.unimaas.nl:22/home/marcromeyn/marc/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swarmlab/data_import" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$/swarmlab" remote-root="$PROJECT_DIR$/../../../marcromeyn/marc" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swarmlab/data_import/import_trouw-documents.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Doop_certificates" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="ssh://marcromeyn@swarmlab-srv01.unimaas.nl:22/home/marcromeyn/marc/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swarmlab/data_import" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$/swarmlab" remote-root="$PROJECT_DIR$/../../../marcromeyn/marc" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swarmlab/data_import/import_doop-documents.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Begraven_certificates" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="ssh://marcromeyn@swarmlab-srv01.unimaas.nl:22/home/marcromeyn/marc/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swarmlab/data_import" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$/swarmlab" remote-root="$PROJECT_DIR$/../../../marcromeyn/marc" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swarmlab/data_import/import_begraven-documents.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Charts" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="ssh://marcromeyn@swarmlab-srv01.unimaas.nl:22/home/marcromeyn/marc/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swarmlab" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$/swarmlab" remote-root="$PROJECT_DIR$/../../../marcromeyn/marc" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swarmlab/chart.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="christen_names_marriage" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="ssh://marcromeyn@swarmlab-srv01.unimaas.nl:22/home/marcromeyn/marc/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swarmlab" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$/swarmlab" remote-root="$PROJECT_DIR$/../../../marcromeyn/marc" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swarmlab/get_christen_names_marriage.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="get_name_synonyms" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="ssh://marcromeyn@swarmlab-srv01.unimaas.nl:22/home/marcromeyn/marc/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swarmlab" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$/swarmlab" remote-root="$PROJECT_DIR$/../../../marcromeyn/marc" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swarmlab/get_name_synonyms.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="14">
+      <item index="0" class="java.lang.String" itemvalue="Python.Scriptie" />
+      <item index="1" class="java.lang.String" itemvalue="Python.import_data" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Swarmlab" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Death_certificates" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Birth_certificates" />
+      <item index="5" class="java.lang.String" itemvalue="Python.models" />
+      <item index="6" class="java.lang.String" itemvalue="Python.birth_fullnames" />
+      <item index="7" class="java.lang.String" itemvalue="Python.trouw_fullnames" />
+      <item index="8" class="java.lang.String" itemvalue="Python.Doop_certificates" />
+      <item index="9" class="java.lang.String" itemvalue="Python.Begraven_certificates" />
+      <item index="10" class="java.lang.String" itemvalue="Python.Charts" />
+      <item index="11" class="java.lang.String" itemvalue="Python.christen_names_birth" />
+      <item index="12" class="java.lang.String" itemvalue="Python.christen_names_marriage" />
+      <item index="13" class="java.lang.String" itemvalue="Python.get_name_synonyms" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.models" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a1090fa-1e09-49ea-acd1-873a0655f0b2" name="Default" comment="" />
+      <created>1376155993404</created>
+      <updated>1376155993404</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1368" height="769" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Database Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3580247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18636364" sideWeight="0.6419753" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5776" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.6704" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23181818" sideWeight="0.6419753" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2208" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4112" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31635803" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21666667" sideWeight="0.5344" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.328" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/remote.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set_fullnames.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="55" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dump_15_aug.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2880" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fullmatch.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="261" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dump.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.814433" vertical-offset="1638" max-vertical-offset="2220" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thesis">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_names">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_names</OriginalElement>
+          <nodes>
+            <node x="280.0" y="1047.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_names</node>
+            <node x="0.0" y="0.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_certificates</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_names" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_certificates">
+              <point x="0.0" y="-176.5" />
+              <point x="0.0" y="498.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.4" x="-154.0" y="590.0" />
+          <SelectedNodes>
+            <node>f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_names</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/f446a760-0776-4f71-9ba5-f7451d29a79b.schema:test">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>f446a760-0776-4f71-9ba5-f7451d29a79b.schema:test</OriginalElement>
+          <nodes>
+            <node x="407.0" y="4277.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.types_matches</node>
+            <node x="0.0" y="1940.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.trouw_certificates</node>
+            <node x="1492.0" y="2757.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.buried_names</node>
+            <node x="2521.75" y="3189.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.places_now</node>
+            <node x="2951.0" y="1323.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_names_full</node>
+            <node x="1322.0" y="34.5">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.death_certificates</node>
+            <node x="2569.0" y="1323.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_full_names</node>
+            <node x="1382.0" y="1346.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_marriage</node>
+            <node x="2799.75" y="3189.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.synonyms</node>
+            <node x="1845.0" y="3189.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.persons</node>
+            <node x="350.0" y="1772.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_names_christen</node>
+            <node x="1893.75" y="3362.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.persons_relations</node>
+            <node x="1597.0" y="3212.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.types_certificates</node>
+            <node x="250.0" y="1242.5">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_names</node>
+            <node x="0.0" y="4277.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.names_synonyms</node>
+            <node x="740.0" y="1254.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_names_full</node>
+            <node x="0.0" y="1380.5">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_places</node>
+            <node x="271.3749999999998" y="34.5">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_certificates</node>
+            <node x="3543.0" y="1772.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_names_christen</node>
+            <node x="2151.75" y="3189.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.places_synonyms</node>
+            <node x="1262.0" y="1940.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.buried_certificates</node>
+            <node x="1336.75" y="1795.5">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_death</node>
+            <node x="193.0" y="4277.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.types_relations</node>
+            <node x="1665.0" y="3373.5">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.persons_certificates</node>
+            <node x="3333.0" y="1116.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_names</node>
+            <node x="1139.0" y="3189.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.blog_reference_place</node>
+            <node x="2380.0" y="0.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_certificates</node>
+            <node x="2598.75" y="1795.5">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_death</node>
+            <node x="1756.2916666666665" y="1346.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.death_full_names</node>
+            <node x="0.0" y="3189.0">f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.christen_certificates</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.buried_names" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.buried_certificates">
+              <point x="0.0" y="-119.0" />
+              <point x="0.0" y="383.5" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_names_full" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_certificates">
+              <point x="0.0" y="-96.0" />
+              <point x="3132.0" y="1096.0" />
+              <point x="3081.25" y="1096.0" />
+              <point x="140.25" y="533.0" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_names_christen" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_names">
+              <point x="0.0" y="-61.5" />
+              <point x="0.0" y="303.0" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.persons_certificates" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.types_certificates">
+              <point x="-46.0" y="-50.0" />
+              <point x="0.0" y="38.5" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.persons_certificates" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.persons">
+              <point x="46.0" y="-50.0" />
+              <point x="1803.0" y="3337.0" />
+              <point x="1879.0" y="3337.0" />
+              <point x="-68.0" y="61.5" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_death" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.death_full_names">
+              <point x="57.5" y="-38.0" />
+              <point x="1509.25" y="1747.0" />
+              <point x="1830.7916666666665" y="1747.0" />
+              <point x="-74.5" y="73.0" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.persons_relations" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.persons">
+              <point x="53.25" y="-61.5" />
+              <point x="2053.5" y="3337.0" />
+              <point x="2015.0" y="3337.0" />
+              <point x="68.0" y="61.5" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_death" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_names_full">
+              <point x="-57.5" y="-38.0" />
+              <point x="1394.25" y="1747.0" />
+              <point x="965.0" y="1747.0" />
+              <point x="0.0" y="165.0" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_names_full" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_certificates">
+              <point x="0.0" y="-165.0" />
+              <point x="965.0" y="1096.0" />
+              <point x="915.1249999999998" y="1096.0" />
+              <point x="128.75" y="498.5" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_names" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_certificates">
+              <point x="0.0" y="-176.5" />
+              <point x="485.0" y="1096.0" />
+              <point x="657.6249999999998" y="1096.0" />
+              <point x="-128.75" y="498.5" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_marriage" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_certificates">
+              <point x="72.5" y="-73.0" />
+              <point x="1599.5" y="1096.0" />
+              <point x="2520.25" y="1096.0" />
+              <point x="-420.75" y="533.0" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_names_christen" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_names">
+              <point x="0.0" y="-61.5" />
+              <point x="0.0" y="176.5" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_names" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_certificates">
+              <point x="0.0" y="-303.0" />
+              <point x="3694.0" y="1096.0" />
+              <point x="3361.75" y="1096.0" />
+              <point x="420.75" y="533.0" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_death" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_names_full">
+              <point x="65.5" y="-38.0" />
+              <point x="2795.25" y="1747.0" />
+              <point x="3132.0" y="1747.0" />
+              <point x="0.0" y="96.0" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_full_names" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_certificates">
+              <point x="0.0" y="-96.0" />
+              <point x="2750.0" y="1096.0" />
+              <point x="2800.75" y="1096.0" />
+              <point x="-140.25" y="533.0" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.death_full_names" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.death_certificates">
+              <point x="0.0" y="-73.0" />
+              <point x="1905.2916666666665" y="1086.0" />
+              <point x="1841.0" y="1086.0" />
+              <point x="0.0" y="498.5" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_marriage" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_certificates">
+              <point x="-72.5" y="-73.0" />
+              <point x="1454.5" y="1096.0" />
+              <point x="1172.6249999999998" y="1096.0" />
+              <point x="386.25" y="498.5" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_places" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.birth_certificates">
+              <point x="0.0" y="-38.5" />
+              <point x="115.0" y="1096.0" />
+              <point x="400.1249999999998" y="1096.0" />
+              <point x="-386.25" y="498.5" />
+            </edge>
+            <edge source="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.marriage_death" target="f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.death_full_names">
+              <point x="-65.5" y="-38.0" />
+              <point x="2664.25" y="1747.0" />
+              <point x="1979.7916666666665" y="1747.0" />
+              <point x="74.5" y="73.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.12917898567204913" x="-43.0" y="1848.0" />
+          <SelectedNodes>
+            <node>f446a760-0776-4f71-9ba5-f7451d29a79b.table:test.types_matches</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="57" selection-start="59" selection-end="92" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dump_03_sep.sql">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1624" column="29" selection-start="77290" selection-end="77290" vertical-scroll-proportion="0.0" vertical-offset="24028" max-vertical-offset="36435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="20" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2490">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/algorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="46" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set_gender.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="13" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/happyhour/fabfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="39" selection-start="1664" selection-end="1664" vertical-scroll-proportion="0.0" vertical-offset="1035" max-vertical-offset="1950">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://db-console:/1bba4c2c/f446a760-0776-4f71-9ba5-f7451d29a79b/">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="72" selection-start="216" selection-end="222" vertical-scroll-proportion="0.14018692" vertical-offset="0" max-vertical-offset="1170">
+          <folding>
+            <marker date="0" expanded="true" signature="150:222" placeholder="SELECT * FRO..marriage_names..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../assets/ico/favicon.png">
+
+    <title>Thesis Marc Romeyn</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../dist/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="jumbotron.css" rel="stylesheet">
+
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="../js/heatmap.js"></script>
+    <script type="text/javascript" src="../js/heatmap-gmaps.js"></script>
+
+    <script type="text/javascript" src="../data/deathcertificates.js"></script>
+    <script type="text/javascript" src="../data/birthcertificates.js"></script>
+    <script type="text/javascript" src="../data/marriagecertificates.js"></script>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../../assets/js/html5shiv.js"></script>
+      <script src="../../assets/js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">BHIC Data</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="index.html">Home</a></li>
+            <li class="active"><a href="maps.html">Maps</a></li>
+            <li><a href="charts.html">Charts</a></li>
+            <!-- <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Nav header</li>
+                <li><a href="#">Separated link</a></li>
+                <li><a href="#">One more separated link</a></li>
+              </ul>
+            </li> -->
+          </ul>
+          <!-- <form class="navbar-form navbar-right">
+            <div class="form-group">
+              <input type="text" placeholder="Email" class="form-control">
+            </div>
+            <div class="form-group">
+              <input type="password" placeholder="Password" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-success">Sign in</button>
+          </form> -->
+        </div><!--/.navbar-collapse -->
+      </div>
+    </div>
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron" style="padding:20px;">
+      <div class="container">
+        <div class="btn-group-sm">
+          <button type="button" class="btn btn-default" id="births">Births</button>
+          <button type="button" class="btn btn-default" id="marriages">Marriages</button>
+          <button type="button" class="btn btn-default" id="deaths">Deaths</button>
+        </div>
+        <div id="heatmapArea" class="container" style="position:relative; height:550px;"></div>
+      </div>
+    </div>
+
+      <!--<hr>
+ 
+      <footer>
+        <div class="container">
+          <p>&copy; Marc Romeyn</p>
+        </div>
+      </footer> -->
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="../assets/js/jquery.js"></script>
+    <script src="../dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+
+var map;
+var heatmap; 
+
+window.onload = function(){
+
+  var myLatlng = new google.maps.LatLng(51.48265, 5.23217);
+  // sorry - this demo is a beta
+  // there is lots of work todo
+  // but I don't have enough time for eg redrawing on dragrelease right now
+  var myOptions = {
+    zoom: 8,
+    center: myLatlng,
+    mapTypeId: google.maps.MapTypeId.ROADMAP,
+    disableDefaultUI: false,
+    scrollwheel: true,
+    draggable: true,
+    navigationControl: true,
+    mapTypeControl: false,
+    scaleControl: true,
+    disableDoubleClickZoom: false
+  };
+  map = new google.maps.Map(document.getElementById("heatmapArea"), myOptions);
+  
+  heatmap = new HeatmapOverlay(map, {"radius":15, "visible":true, "opacity":60});
+  
+  // document.getElementById("gen").onclick = function(){
+  //   var x = 5;
+  //   while(x--){
+    
+  //     var lat = Math.random()*180;
+  //     var lng = Math.random()*180;
+  //     var count = Math.floor(Math.random()*180+1);
+      
+  //     heatmap.addDataPoint(lat,lng,count);
+    
+  //   }
+  
+  // };
+  
+  // document.getElementById("tog").onclick = function(){
+  //   heatmap.toggle();
+  // };
+    
+  // this is important, because if you set the data set too early, the latlng/pixel projection doesn't work
+  google.maps.event.addListenerOnce(map, "idle", function(){
+    heatmap.setDataSet(births);
+  });
+};
+
+</script>
+
+<script type="text/javascript">
+
+      function setColors(clickedItem) {
+        var items = ['births', 'marriages', 'deaths'];
+        $.each(items, function(key, value) {
+          $("#" + value).css('background-color', '#95a5a6');
+        });
+        $("#" + clickedItem).css('background-color', '#7f9293');
+      }
+
+      $(document).ready(function () {
+          $("#births").css('background-color', '#7f9293');
+          $("#births").click(function () {
+              heatmap.setDataSet(births);
+              setColors('births');
+          });
+          $("#marriages").click(function () {
+              heatmap.setDataSet(marriages);
+              setColors('marriages');
+          }); 
+          $("#deaths").click(function () {
+              heatmap.setDataSet(deaths);
+              setColors('deaths');
+          });
+      });
+    </script>
+  </body>
+</html>
